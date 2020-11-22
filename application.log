@@ -1,0 +1,10 @@
+2020-11-22 23:58:32,397 DEBUG [Forwarding newSession on session null to remote] RequestAddCookies:123 - CookieSpec selected: default
+2020-11-22 23:58:32,448 DEBUG [Forwarding newSession on session null to remote] RequestAuthCache:77 - Auth cache not set in the context
+2020-11-22 23:58:32,450 DEBUG [Forwarding newSession on session null to remote] PoolingHttpClientConnectionManager:255 - Connection request: [route: {s}->https://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]
+2020-11-22 23:58:32,615 DEBUG [Forwarding newSession on session null to remote] PoolingHttpClientConnectionManager:288 - Connection leased: [id: 0][route: {s}->https://127.0.0.1:4723][total kept alive: 0; route allocated: 1 of 2000; total allocated: 1 of 2000]
+2020-11-22 23:58:32,616 DEBUG [Forwarding newSession on session null to remote] MainClientExec:235 - Opening connection {s}->https://127.0.0.1:4723
+2020-11-22 23:58:32,720 DEBUG [Forwarding newSession on session null to remote] DefaultHttpClientConnectionOperator:139 - Connecting to /127.0.0.1:4723
+2020-11-22 23:58:32,720 DEBUG [Forwarding newSession on session null to remote] SSLConnectionSocketFactory:337 - Connecting socket to /127.0.0.1:4723 with timeout 120000
+2020-11-22 23:58:34,723 DEBUG [Forwarding newSession on session null to remote] DefaultManagedHttpClientConnection:96 - http-outgoing-0: Shutdown connection
+2020-11-22 23:58:34,724 DEBUG [Forwarding newSession on session null to remote] MainClientExec:129 - Connection discarded
+2020-11-22 23:58:34,724 DEBUG [Forwarding newSession on session null to remote] PoolingHttpClientConnectionManager:326 - Connection released: [id: 0][route: {s}->https://127.0.0.1:4723][total kept alive: 0; route allocated: 0 of 2000; total allocated: 0 of 2000]

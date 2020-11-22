@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="LycaTestSuite" verbose="1" >
+
+	<listeners>
+        <listener class-name="com.cts.genericUtils.TestListeners.TestListener"/>
+        <listener class-name="com.cts.genericUtils.TestListeners.AnnotationTransformer"/>
+    </listeners>
+  
+  <test name = "PURCHASE_TEST">
+	  <classes>
+	  	 <class name = "com.cts.testrunner.LoggedIn.Bundle.UKBundleLoggedInUserTest"></class>
+	  	
+	  </classes>
+  </test>
+      
+   
+</suite>
+	
+	
+	

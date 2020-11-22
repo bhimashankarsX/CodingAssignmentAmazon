@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<TestConfig>
+
+	<DesiredCapabilities>
+		<deviceName>7SYLCITKLNSO7TWK</deviceName>
+		<platformName>Android</platformName>
+		<platformVersion>7.1.1</platformVersion>
+		<automationName>uiautomator2</automationName>>
+		<appPackage>com.amazon.mShop.android.shopping</appPackage>
+		<appActivity>com.amazon.mShop.sso.SigninPromptActivity</appActivity>
+		<appDir>Resources/apk</appDir>
+		<apk>Amazon_shopping.apk</apk>
+	</DesiredCapabilities>
+
+	<TestData>
+		<contactNumber>9019976983</contactNumber>
+		<password>DUMMYPASSWORD123</password>
+		<searchItem>65-inch TV</searchItem>
+	</TestData>>
+
+
+
+</TestConfig>
+
+
