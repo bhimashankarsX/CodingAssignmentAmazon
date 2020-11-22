@@ -8,7 +8,7 @@
   
   <test name = "PURCHASE_TEST">
 	  <classes>
-	  	 <class name = "com.cts.testrunner.LoggedIn.Bundle.UKBundleLoggedInUserTest"></class>
+	  	 <class name = "com.cts.testrunner.LoggedIn.Purchase"></class>
 	  	
 	  </classes>
   </test>
